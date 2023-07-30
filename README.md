@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Fernando Claus.
+## Hi there 👋, I'm Fernando Claus.
 
-## Embracing Change: From 20 Years in Consumer Electronics Sales to Aspiring Programmer at Campus 42 Malaga.
+### Embracing Change: From 20 Years in Consumer Electronics Sales to Aspiring Programmer at Campus 42 Malaga.
 
 The transformative decision I made after spending two decades as a sales professional in consumer electronics. Fueled by a deep desire to immerse myself in the world of technology, I took a bold step forward and enrolled in programming courses at Campus 42 Malaga. Embracing this new challenge, I am excited to harness my creativity, problem-solving skills, and passion for innovation as I embark on a journey of learning and growth in the dynamic field of programming.
 
