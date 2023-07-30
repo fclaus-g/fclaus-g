@@ -1,3 +1,4 @@
+<https://www.ngeeks.com/wp-content/uploads/2021/09/cursos-programacion.jpg>
 ## Hi there 👋, I'm Fernando Claus.
 
 ### Embracing Change: From 20 Years in Consumer Electronics Sales to Aspiring Programmer at Campus 42 Malaga.
