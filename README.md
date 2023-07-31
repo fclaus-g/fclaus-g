@@ -28,21 +28,9 @@ The transformative decision I made after spending two decades as a sales profess
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-<Br>
-(https://github-readme-stats.vercel.app/api?username=fclaus-g&show_icons=true&theme=merko)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&layout=compact&theme=merko)](https://github.com/fclaus-g/github-readme-stats)
-<Br>
-<a href="https://github.com/fclaus-g/">
-  <img src="https://github-readme-stats.vercel.app/api?username=fclaus-g&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fclaus-g&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="fclaus-g"/>
-
-</a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fclaus-g&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![fclaus-g GitHub stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![fclaus-g wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats)
 
 <br>
-<br>
-<br>
-
 
 <!--
 **fclaus-g/fclaus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
