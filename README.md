@@ -28,7 +28,7 @@ The transformative decision I made after spending two decades as a sales profess
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fclaus-g&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![fclaus-g GitHub stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![fclaus-g wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fclaus-g&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![fclaus-g GitHub stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) 
 
 <br>
 
