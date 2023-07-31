@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Fernando Claus.
-
+## <picture><img src = "[con corchetes](https://github.com/fclaus-g/fclaus-g/assets/115455780/c8487fcd-d70f-4e49-93d8-cc431dba117f)"
+h = 50px></picture> **About me**
 ### Embracing Change: From 20 Years in Consumer Electronics Sales to Aspiring Programmer at Campus 42 Malaga.
 
 The transformative decision I made after spending two decades as a sales professional in consumer electronics. Fueled by a deep desire to immerse myself in the world of technology, I took a bold step forward and enrolled in programming courses at Campus 42 Malaga. Embracing this new challenge, I am excited to harness my creativity, problem-solving skills, and passion for innovation as I embark on a journey of learning and growth in the dynamic field of programming.
