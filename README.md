@@ -5,6 +5,7 @@
 The transformative decision I made after spending two decades as a sales professional in consumer electronics. Fueled by a deep desire to immerse myself in the world of technology, I took a bold step forward and enrolled in programming courses at Campus 42 Malaga. Embracing this new challenge, I am excited to harness my creativity, problem-solving skills, and passion for innovation as I embark on a journey of learning and growth in the dynamic field of programming.
 
 <p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/fclaus-g?1337Badge=off&UM6P=off" alt="fclaus-g's 42 stats"/></a> </p>
+[!fclaus-g's 42 stats](https://badge.mediaplus.ma/matrix/fclaus.g)](https://github.com/oakoudad/badge42)
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
