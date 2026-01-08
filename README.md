@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Fernando Claus.
 ## <picture><img src = "https://github.com/fclaus-g/fclaus-g/assets/115455780/c8487fcd-d70f-4e49-93d8-cc431dba117f" width = 300px></picture>
-### Embracing Change: From 20 Years in Consumer Electronics Sales to Aspiring Programmer at Campus 42 Malaga.
+### Systems-Focused Software Developer | C/C++ & Infrastructure | 42 Málaga
+After a 20-year career in the consumer electronics sector and IT support, I have evolved my professional path into systems programming and software architecture. Through the high-performance methodology of 42 Málaga, I have built a robust foundation in C/C++, focusing on manual memory management, multithreading, and systems-level efficiency.
 
-The transformative decision I made after spending two decades as a sales professional in consumer electronics. Fueled by a deep desire to immerse myself in the world of technology, I took a bold step forward and enrolled in programming courses at Campus 42 Malaga. Embracing this new challenge, I am excited to harness my creativity, problem-solving skills, and passion for innovation as I embark on a journey of learning and growth in the dynamic field of programming.
+My background provides me with a unique perspective: the ability to understand complex hardware ecosystems combined with the technical rigor to develop reliable, low-level software solutions.
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
