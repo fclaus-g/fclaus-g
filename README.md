@@ -67,14 +67,14 @@ My background provides me with a unique perspective: the ability to understand c
   </a>
 </p>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!--
+[## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fclaus-g&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![fclaus-g GitHub stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) 
 
-<br>
-
+<br>](url)
+-->
 <!--
 **fclaus-g/fclaus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
