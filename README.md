@@ -72,13 +72,14 @@ I write **C and C++** the hard way: manual memory management, raw system calls, 
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![42 Badge](https://badge.mediaplus.ma/greenbinary/fclaus-g?133Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </div>
+
+
 
 ---
 
