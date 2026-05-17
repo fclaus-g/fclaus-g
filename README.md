@@ -77,6 +77,8 @@ I write **C and C++** the hard way: manual memory management, raw system calls, 
 
 [![42 Badge](https://badge.mediaplus.ma/greenbinary/fclaus-g?133Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fclaus-g&theme=github_dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=fclaus-g&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
