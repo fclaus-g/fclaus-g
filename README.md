@@ -1,3 +1,108 @@
+<div align="center">
+
+# Fernando Claus
+### Systems & Backend Developer · C/C++ · Unix/Linux · 42 Málaga
+
+*20 years in hardware & IT support → now writing software that runs close to the metal.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Claus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-claus)
+[![Email](https://img.shields.io/badge/Email-contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![42 Profile](https://img.shields.io/badge/42_Málaga-fclaus--g-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/fclaus-g)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a career-changer who spent two decades in **consumer electronics and IT infrastructure** before committing fully to software development. That background gives me something most junior devs don't have: a deep intuition for how hardware and software interact, and a professional mindset forged in real client-facing environments.
+
+Since joining **42 Málaga** — a rigorous, project-based engineering school with no lectures and no hand-holding — I've built everything from scratch: memory allocators, a Unix shell, an IPC messaging system, and a complete C++ OOP module series.
+
+I write **C and C++** the hard way: manual memory management, raw system calls, POSIX threads, no shortcuts.
+
+---
+
+## 🛠️ Tech Stack
+
+**Systems & Low-Level**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-4D4D4D?style=flat-square&logo=unix&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=gnu&logoColor=white)
+
+**Web & Scripting**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-Debugger-red?style=flat-square)
+![Valgrind](https://img.shields.io/badge/Valgrind-Memory_Safe-green?style=flat-square)
+
+---
+
+## 🔨 Currently Building
+
+**[`syscall-tracer`](https://github.com/fclaus-g/syscall-tracer)** — A lightweight Linux system call tracer written in C using `ptrace`. Think of it as a mini `strace`: attach to any process, intercept syscalls, and log them with timestamps and arguments. Demonstrates deep knowledge of Linux internals, process management, and debugging tools.
+
+> *Expected completion: [Month Year]*
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [🐚 minishell](https://github.com/fclaus-g/minishell) | Full Unix shell with pipes, redirections & builtins | C, POSIX, Readline |
+| [📡 minitalk](https://github.com/fclaus-g/minitalk) | Client-server IPC messaging via Unix signals | C, SIGUSR1/2, Bitwise ops |
+| [📦 libft](https://github.com/fclaus-g/libft) | Custom C standard library rebuilt from zero | C, Memory management |
+| [🖨️ ft_printf](https://github.com/fclaus-g/ft_printf) | printf reimplementation with variadic functions | C, Variadic args |
+| [⚙️ cpp_modules](https://github.com/fclaus-g/cpp_module) | 9-module deep dive into C++ OOP | C++98/11, OOP, STL |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🎯 Looking For
+
+I'm actively looking for my first professional developer role. Here's what I'm targeting:
+
+- 🔧 **Roles**: Backend Developer · Systems Developer · Embedded Software · DevOps/Infra Junior
+- 📍 **Location**: Málaga (on-site or hybrid) · Open to full remote across Spain/Europe
+- 🏢 **Companies**: Startups or mid-size tech companies that value code quality and engineering culture
+- 🚫 **Not looking for**: Pure frontend or no-code roles
+
+If your team works close to the metal — Linux, C/C++, systems, infra, embedded — **let's talk.**
+
+---
+
+<div align="center">
+
+💼 **[linkedin.com/in/fernando-claus](https://linkedin.com/in/fernando-claus)**
+
+*Open to opportunities · Based in Málaga, Spain*
+
+</div>
+<!--
 ## Hi there 👋, I'm Fernando Claus.
 ## <picture><img src = "https://github.com/fclaus-g/fclaus-g/assets/115455780/c8487fcd-d70f-4e49-93d8-cc431dba117f" width = 300px></picture>
 ### Systems-Focused Software Developer | C/C++ & Infrastructure | 42 Málaga
