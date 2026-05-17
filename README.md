@@ -86,10 +86,10 @@ I write **C and C++** the hard way: manual memory management, raw system calls, 
 
 I'm actively looking for my first professional developer role. Here's what I'm targeting:
 
-- 🔧 **Roles**: Backend Developer · Systems Developer · Embedded Software · DevOps/Infra Junior
+- 🔧 **Roles**: Backend Developer · Systems Developer · Embedded Software · IT Support · DevOps/Infra Junior
 - 📍 **Location**: Málaga (on-site or hybrid) · Open to full remote across Spain/Europe
-- 🏢 **Companies**: Startups or mid-size tech companies that value code quality and engineering culture
-- 🚫 **Not looking for**: Pure frontend or no-code roles
+
+
 
 If your team works close to the metal — Linux, C/C++, systems, infra, embedded — **let's talk.**
 
@@ -172,25 +172,3 @@ My background provides me with a unique perspective: the ability to understand c
   </a>
 </p>
 
-<!--
-[## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fclaus-g&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![fclaus-g GitHub stats](https://github-readme-stats.vercel.app/api?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fclaus-g&theme=algolia)](https://github.com/fclaus-g/github-readme-stats) 
-
-<br>](url)
--->
-<!--
-**fclaus-g/fclaus-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
