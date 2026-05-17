@@ -6,7 +6,7 @@
 *20 years in hardware & IT support → now writing software that runs close to the metal.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Claus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-claus)
-[![Email](https://img.shields.io/badge/Email-contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+
 [![42 Profile](https://img.shields.io/badge/42_Málaga-fclaus--g-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/fclaus-g)
 
 </div>
@@ -50,11 +50,6 @@ I write **C and C++** the hard way: manual memory management, raw system calls, 
 
 ---
 
-## 🔨 Currently Building
-
-**[`syscall-tracer`](https://github.com/fclaus-g/syscall-tracer)** — A lightweight Linux system call tracer written in C using `ptrace`. Think of it as a mini `strace`: attach to any process, intercept syscalls, and log them with timestamps and arguments. Demonstrates deep knowledge of Linux internals, process management, and debugging tools.
-
-> *Expected completion: [Month Year]*
 
 ---
 
