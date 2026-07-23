@@ -1,38 +1,56 @@
-<section id="hero">
-    <h1>Fernando Claus</h1>
-
-    <h2>
-        IT Support • Linux • Systems • Automation
-    </h2>
-
-    <p class="hero-text">
-        Building reliable systems.<br>
-        Solving real problems.<br>
-        Always learning.
-    </p>
-</section>
 <div align="center">
 
 # Fernando Claus
-### IT Support • Systems • Linux • Automation • 42 Málaga
 
-*20 years in hardware & IT support → now writing software that runs close to the metal.*
+### IT Support • Linux • Systems • Automation
+
+**Building reliable systems. Solving real problems. Always learning.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando_Claus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-claus)
-
 [![42 Profile](https://img.shields.io/badge/42_Málaga-fclaus--g-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/fclaus-g)
 
 </div>
+## 👨‍💻 About Me
+I'm an IT Support professional with a strong passion for Linux systems, infrastructure, automation and continuous improvement.
+
+After more than 18 years working with technology, hardware and customer support, I decided to fully transition into IT. Since then I've completed the **42 Málaga Common Core**, expanded my knowledge in systems administration, networking, software development and cybersecurity, and continue building practical projects to strengthen my technical skills.
+
+I enjoy understanding how systems work under the hood, solving complex technical problems and continuously learning new technologies that help build reliable, maintainable and efficient solutions.
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 What I'm Working On
 
-I'm a career-changer who spent two decades in **consumer electronics and IT infrastructure** before committing fully to software development. That background gives me something most junior devs don't have: a deep intuition for how hardware and software interact, and a professional mindset forged in real client-facing environments.
+- 🐧 Linux Systems Administration
+- 🐳 Docker & Containerization
+- ⚙️ IT Process Automation
+- 🌐 Networking & Infrastructure
+- 💻 Software Development
+- 🔒 Cybersecurity Fundamentals
 
-Since joining **42 Málaga** — a rigorous, project-based engineering school with no lectures and no hand-holding — I've built everything from scratch: memory allocators, a Unix shell, an IPC messaging system, and a complete C++ OOP module series.
+---
 
-I write **C and C++** the hard way: manual memory management, raw system calls, POSIX threads, no shortcuts.
+# 🛠 Core Technologies
+
+### Operating Systems
+
+Linux • Windows • macOS
+
+### Infrastructure
+
+Docker • Nginx • VirtualBox • VMware • Git • GitHub
+
+### Networking
+
+TCP/IP • DNS • DHCP • Subnetting • SSH
+
+### Programming
+
+C • C++ • Python • JavaScript • TypeScript • HTML • CSS • Bash
+
+### Databases
+
+PostgreSQL • MariaDB
 
 ---
 
@@ -52,7 +70,7 @@ I write **C and C++** the hard way: manual memory management, raw system calls, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+[WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/:interval/:slug)
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
