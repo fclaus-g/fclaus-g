@@ -1,7 +1,20 @@
+<section id="hero">
+    <h1>Fernando Claus</h1>
+
+    <h2>
+        IT Support • Linux • Systems • Automation
+    </h2>
+
+    <p class="hero-text">
+        Building reliable systems.<br>
+        Solving real problems.<br>
+        Always learning.
+    </p>
+</section>
 <div align="center">
 
 # Fernando Claus
-### Systems & Backend Developer · C/C++ · Unix/Linux · 42 Málaga
+### IT Support • Systems • Linux • Automation • 42 Málaga
 
 *20 years in hardware & IT support → now writing software that runs close to the metal.*
 
