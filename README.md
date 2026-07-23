@@ -70,7 +70,6 @@ PostgreSQL • MariaDB
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress)
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -113,18 +112,30 @@ PostgreSQL • MariaDB
 
 ---
 
-## 🎯 Looking For
+## 🎯 Career Objective
 
-I'm actively looking for my first professional developer role. Here's what I'm targeting:
+I'm looking for an opportunity where I can continue growing in **IT Support, Systems Administration and Infrastructure**, contributing with commitment, initiative and a strong willingness to learn.
 
-- 🔧 **Roles**: Backend Developer · Systems Developer · Embedded Software · IT Support · DevOps/Infra Junior
-- 📍 **Location**: Málaga (on-site or hybrid) · Open to full remote across Spain/Europe
+### 🔧 Roles I'm interested in
 
+- IT Support Engineer
+- IT Support Technician
+- Systems Administrator (Junior)
+- Infrastructure Engineer (Junior)
+- Linux Systems Engineer
+- Technical Support Specialist
+- Backend Developer
+- DevOps Engineer (Junior)
 
+### 📍 Location
 
-If your team works close to the metal — Linux, C/C++, systems, infra, embedded — **let's talk.**
+- Málaga (On-site or Hybrid)
+- Remote across Spain
+- Open to opportunities within Europe
 
 ---
+
+If you're looking for someone who enjoys learning, solving technical challenges and building reliable systems, **I'd love to connect.**
 
 <div align="center">
 
